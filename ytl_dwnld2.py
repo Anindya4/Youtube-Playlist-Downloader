@@ -30,7 +30,7 @@ def download_youtube_playlist(url, resolution="1080p", download_path="./"):
         print(f"An error occurred: {e}")
 
 # URL of the YouTube playlist to be downloaded
-playlist_url = "https://youtube.com/playlist?list=PLZTiWdqxlvACZJEFL0XMslGoBCfz3wgSl&si=BzVkrH_Z-RqImYpo"
+playlist_url = "Enter Your URL"
 
 # Path where the playlist should be downloaded
 download_path = "./downloads"
